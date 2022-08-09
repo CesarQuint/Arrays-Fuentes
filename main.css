@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background: rgb(80,73,205);
+    background: linear-gradient(90deg, rgba(80,73,205,0.9640231092436975) 0%, rgba(116,60,184,1) 46%, rgb(209, 216, 255) 100%);
+}
+main{
+    font-family: sans-serif;
+    background-color: aliceblue;
+    margin: auto;
+    border-radius: 1%;
+    text-align: center;
+    height: 20rem;
+    margin: 10%;
+    box-shadow: 1px 4px 20px 5px black;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+}
